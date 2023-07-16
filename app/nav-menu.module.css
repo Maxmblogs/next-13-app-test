@@ -1,0 +1,39 @@
+.app {
+    display: flex;
+    flex-direction: column-reverse;
+    /* border: solid ; */
+}
+
+.form{
+    display: flex;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+    background-color: rgb(189, 189, 245);
+}
+
+.navlist {
+    display: flex;
+    width: fit-content;
+    gap: 5rem;
+    margin-right: 1rem;
+    font-size: larger;
+    color: black;
+    list-style-type: none;
+}
+
+
+.foo {
+    color:black;
+}
+
+.bar {
+    color:black;
+}
+
+.baz {
+    color:black;
+}

@@ -1,0 +1,18 @@
+.about_body {
+    display: flex;
+    flex-direction: column;
+    /* border: solid; */
+    min-height: 100vh;
+}
+
+.about {
+    /* border: solid; */
+    align-self: center;
+}
+
+.paragraph {
+    display: flex;
+    min-height: 25rem;
+    /* border: 1px solid black; */
+    /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); */
+}
